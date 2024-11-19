@@ -66,10 +66,9 @@ For more detailed API integration or advanced use cases, please refer to the abo
 
 ## Other Projects
 
-- **AI-Powered Resume Builder** – A tool to generate **ATS-friendly resumes** with AI assistance.
-- **AI-Powered Resume Analyzer** – An app that analyzes resumes and provides **feedback** for improvement.
-- **AI-Powered Expense Tracker App** – An Android app that helps users **track and manage expenses** through AI-powered insights.
-
+- 📝 **Smart Ration** – An app that streamlines ration booking.
+- 🌏 **FieastaIndiana** – A tourism platform enabling bookings for hotels, guides, and more.
+- 🤖 **Aara** – An AI-powered chatbot for image recognition and insights.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, make your changes, and submit a pull request. Suggestions to improve functionality or add new features are encouraged.
