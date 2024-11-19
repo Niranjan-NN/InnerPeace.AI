@@ -1,7 +1,9 @@
-streamlit
-google-generativeai
 pandas
 numpy
 requests
 strip_markdown
 pyttsx3
+google.generativeai
+strip_markdown
+pyttsx3
+streamlit
