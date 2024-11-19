@@ -1,0 +1,5 @@
+google.generativeai
+strip_markdown
+pyttsx3
+streamlit
+pymongo
