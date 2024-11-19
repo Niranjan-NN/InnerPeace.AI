@@ -3,3 +3,5 @@ google-generativeai
 pandas
 numpy
 requests
+strip_markdown
+pyttsx3
