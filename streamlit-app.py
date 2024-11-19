@@ -10,10 +10,10 @@ from datetime import datetime
 st.set_page_config(page_title="InnerPeace AI 🌿 - Anxiety Counselor", page_icon="🕊️", layout="wide")
 
 # Sidebar for settings
-#st.sidebar.title("Settings")
-#enable_audio = st.sidebar.checkbox("Enable Audio", value=True)
-#voice_speed = st.sidebar.slider("Voice Speed", min_value=100, max_value=200, value=150, step=10)
-#voice_volume = st.sidebar.slider("Voice Volume", min_value=0.0, max_value=1.0, value=0.9, step=0.1)
+st.sidebar.title("Settings")
+enable_audio = st.sidebar.checkbox("Enable Audio", value=True)
+voice_speed = st.sidebar.slider("Voice Speed", min_value=100, max_value=200, value=150, step=10)
+voice_volume = st.sidebar.slider("Voice Volume", min_value=0.0, max_value=1.0, value=0.9, step=0.1)
 
 def generate_and_play_audio(text):
     """Generate and play TTS audio from text using pyttsx3."""
