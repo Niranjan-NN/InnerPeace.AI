@@ -79,7 +79,7 @@ if 'chat_history' not in st.session_state:
 if 'chat' not in st.session_state:
     st.session_state.chat = model.start_chat(history=[])
     initial_response = convo(system_instruction, st.session_state.chat)
-    st.session_state.chat_history.append(("Nila", initial_response))
+    st.session_state.chat_history.append(("InnerPeace AI", initial_response))
 
 # Main app
 st.title("InnerPeace AI 🌿🕊️ - Your Anxiety Counselor 🎧")
@@ -122,7 +122,7 @@ with tab1:
         st.download_button(
             label="Download Chat",
             data=chat_text,
-            file_name=f"nila_chat_history_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt",
+            file_name=f"innerpeaceai_chat_history_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt",
             mime="text/plain"
         )
 
