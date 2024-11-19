@@ -13,8 +13,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mrnithesh/Nila-AI-Therapist.git
-cd Nila-AI-Therapist
+git clone https://github.com/Niranjan-NN/InnerPeace.AI/
+cd InnerPeaceAI
 ```
 
 ### 2. Install Dependencies
