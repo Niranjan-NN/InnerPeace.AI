@@ -2,9 +2,11 @@
 
 **InnerPeace AI** is an advanced conversational AI chatbot designed to provide compassionate and insightful guidance on personal relationships and life challenges. Built using Google’s Generative AI API for natural language understanding and **pyttsx3** for faster, offline Text-to-Speech (TTS) responses, it serves as a virtual therapist for users seeking emotional support.
 
+## Patent Granted
+- **Patent Link**: IEEE Xplore – [Patent #10894494](https://ieeexplore.ieee.org/document/10894494)
 ## Key Features
 
-- **Natural Language Understanding**: Nila-AI leverages Google Generative AI to respond intelligently and contextually.
+- **Natural Language Understanding**: InnerPeace.AI leverages Google Generative AI to respond intelligently and contextually.
 - **Offline Text-to-Speech**: Integrated with `pyttsx3` for real-time, offline voice responses with minimal delay.
 - **Streamlit UI**: Simple and user-friendly web interface using **Streamlit**.
 - **Scalable Architecture**: Designed for smooth deployment and interaction.
